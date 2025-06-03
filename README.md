@@ -13,7 +13,11 @@ A [Deskripsi Singkat Diri Anda] with a passion for [Minat Anda].
 * Data Science
 * Frontend and Backend Web Development
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bangil0&layout=compact">
+
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=bangil0&show_icons=true&hide=[%22issues%22])  
+
+<!--
 **Projects:**
 
 *   [Tautan ke Proyek 1]
@@ -28,3 +32,4 @@ A [Deskripsi Singkat Diri Anda] with a passion for [Minat Anda].
 
 *   [Keterampilan 1]
 *   [Keterampilan 2]
+-->
