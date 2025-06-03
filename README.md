@@ -2,7 +2,7 @@
 
 ![Gambar Profil](https://avatars.githubusercontent.com/u/11605614?v=4)
 
-A selamat datang di oret oretan saya.
+Selamat datang di oret oretan saya.
 <!--
 **Contact:**
 *   LinkedIn: [Tautan ke LinkedIn Anda
