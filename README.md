@@ -15,7 +15,7 @@ Selamat datang di oret oretan saya.
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bangil0&layout=compact">
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=bangil0&show_icons=true&hide=[%22issues%22])  
+
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=bangil0&count_private=true&include_all_commits=true" />
