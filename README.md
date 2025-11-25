@@ -13,8 +13,6 @@ Selamat datang di oret oretan saya.
 * Data Science
 * Frontend and Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bangil0&layout=compact">
-
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=bangil0)](https://github.com/ryo-ma/github-profile-trophy)
 
